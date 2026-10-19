@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+docs/_run.log
+docs/_smoke.json
+_probe*.py
+_gate.py
+_agg.py
